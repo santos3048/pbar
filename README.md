@@ -32,4 +32,5 @@ func main() {
 ```
 
 The output will be a bar that goes fast until 300/400, sleeps for one second and then continues slower. Its message can be easily updated
-![image](https://github.com/santos3048/pbar/assets/154024116/5537bf94-0cce-4eb9-8e9e-cbe2d1b2be5a)
+![image](https://github.com/santos3048/pbar/assets/154024116/cc8252c2-e2ff-49f8-a72b-2029f58acb02)
+
